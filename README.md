@@ -1,1 +1,1 @@
-# platform-engineering-the-hard-way
+# Platform Engineering The Hard Way
